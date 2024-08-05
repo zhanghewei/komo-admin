@@ -1,0 +1,2 @@
+rootProject.name = "komo-admin"
+
